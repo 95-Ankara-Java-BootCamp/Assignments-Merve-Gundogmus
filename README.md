@@ -1,7 +1,7 @@
-# Kodluyoruz Ankara Java Bootcamp Assignments
+## Kodluyoruz Ankara Java Bootcamp Assignments
 
-## Week 1 assignments
+# Week-1
 
-•Fibonacci Series
-•Letter Grade
+•Fibonacci Series<br>
+•Letter Grade<br>
 •Cashier Program
