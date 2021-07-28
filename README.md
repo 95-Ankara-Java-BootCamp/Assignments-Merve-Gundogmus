@@ -2,16 +2,16 @@
 
 # Week-1
 
-•Fibonacci Series<br>
-•Letter Grade<br>
-•Cashier Program
+•Fibonacci Series 🔢<br>
+•Letter Grade 💯<br>
+•Cashier Program 👩🏼‍🌾
 
 # Week-2
 
-•Average Calculation<br>
-•Stationery Stock List<br>
-•Ticket Sales
+•Average Calculation 🎓<br>
+•Stationery Stock List 📚<br>
+•Ticket Sales 🎫
 
 # Week-3
 
-•Flight Reservation System
+•Flight Reservation System ✈
